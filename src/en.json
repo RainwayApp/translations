@@ -150,7 +150,7 @@
       "video-codec-not-supported" : "Video codec not supported",
       "gameplay-resuming" : "Gameplay resuming",
       "network-connection-lost" : "Network connection lost",
-      "removed-token-alert" : "We have removed your tokens from our database. Please visit              <1>this page</1>              to revoke our permissions from your provider.",
+      "removed-token-alert" : "We have removed your tokens from our database. Please visit<1>this page</1>to revoke our permissions from your provider.",
       "session-expired" : "Session expired",
       "finding-your-games" : "Finding Your Games",
       "no-games-found" : "No Games Found",
