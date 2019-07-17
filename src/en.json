@@ -1,6 +1,4 @@
 {
-  "en" : {
-    "translation" : {
       "welcome-to-rainway" : "Welcome to Rainway",
       "no-account-yet" : "No account yet?",
       "register-now" : "Register Now",
@@ -217,5 +215,3 @@
       "copyright-message" : "Copyright © 2019 Rainway, Inc.",
       "third-party-licenses-message" : "<0>\n                            Several fantastic pieces of free and open-source software have really helped get Rainway to where it is\n                            today. A few require that we include their license agreements within our product. Consider it done. As we\n                            enjoy giving credit where it's due, we included the entire list below. This means you can not only see which\n                            software we've been using, but the terms of the licenses too. A big thanks from all of us at Rainway to the\n                            smart people behind the fantastic programs listed. Rock on!\n                        </0>\n                        <2>\n                            Certain FOSS Licenses, such as the GNU General Public License, GNU Lesser (or Library) General Public\n                            License, and Mozilla Public License, require that Rainway make available to recipients the source code\n                            corresponding to FOSS binaries distributed under those licenses. Recipients who would like to receive a copy\n                            of such source code should submit a request to Rainway by email, at:{' '}\n                            <4>opensource@rainway.com</4>\n                        </2>\n                        <6>\n                            Please identify in submitted requests: the FOSS packages for which you are requesting source code; the\n                            Rainway application and version number with which the requested source code is distributed; an email address\n                            at which Rainway may contact you regarding the request (if available); and the postal address for delivery\n                            of source code.\n                        </5>\n                        <8>Third-party software that is part of the Dashboard:</8>"
     }
-  }
-}
