@@ -1,5 +1,5 @@
 # translations
-Repository of language translation files for the Rainway Client and Dashboard.
+Repository of language files for various Rainway user interfaces. 
 
 # How to contribute
 Know a second language? We need your help! Here's how to help us translate Rainway into your language:
