@@ -22,7 +22,7 @@
       "lost-webrtc-connection" : "Lost WebRTC connection.",
       "connecting" : "Connecting.",
       "no-online-dashboard" : "No Online Dashboard Found",
-      "no-dashboard-message" : "To stream and play games on the Rainway client, you need to install the Rainway Dashboard on aPC running Windows 10 that has your games installed on it. It’s a one-time setup and takes lessthan a minute.",
+      "no-dashboard-message" : "To stream and play games on the Rainway client, you need to install the Rainway Dashboard on aPC running Windows 10 that has your games installed on it. It’s a one-time setup and takes less than a minute.",
       "log-out" : "log out",
       "or" : "or",
       "go-back" : "go back",
