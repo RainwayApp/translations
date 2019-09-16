@@ -277,7 +277,6 @@
   "network-connection-missing-message": "Rainway can't connect to the internet",
   "socket-connection-error-message": "We're having some trouble opening up websockets",
   "our-partners": "Our Partners",
-  "blog-category-everything": "Everything",
   "patent-pending": "Patent Pending.",
   "copyright-message": "Copyright © 2019 Rainway, Inc.",
   "integration-requests-timeout": "Integration request(s) timed out",
