@@ -21,5 +21,5 @@ Object.entries(json).forEach(entry => {
             : toZalgo(word)).join(' ')
 })
 
-fs.writeFile('en-US-x-leet.json', JSON.stringify(speak), 'utf8', () => console.log('output to leetspeek.json'))
-fs.writeFile('en-US-x-zalgo.json', JSON.stringify(zalgo), 'utf8', () => console.log('output to zalgo.json'))
+fs.writeFile('en-LEET.json', JSON.stringify(speak), 'utf8', () => console.log('output to leetspeek.json'))
+fs.writeFile('en-ZALGO.json', JSON.stringify(zalgo), 'utf8', () => console.log('output to zalgo.json'))
