@@ -1,0 +1,10 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "leetspeak": "^0.0.1",
+    "to-zalgo": "^1.0.1"
+  }
+}
