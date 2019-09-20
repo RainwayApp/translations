@@ -168,6 +168,8 @@
   "launching": "launching...",
   "now-playing": "now playing",
   "keycode": "code",
+  "translation": "Translation",
+  "or-log-out": "or <1>log out</1>",
   "choose-a-shortcut": "Choose a shortcut...",
   "edge-not-supported": "{{edge}} is not currently supported",
   "safari-stability-issues": "We are actively working on some stability issues with {{safari}}.",
