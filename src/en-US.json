@@ -244,7 +244,7 @@
   "settings-tab": "Settings",
   "news-tab": "News",
   "add-a-device": "{{plusSign}} Add A Device",
-  "not-started": "Not Stareted",
+  "not-started": "Not Started",
   "initializing": "Initializing",
   "registering-dns-entries": "Registering DNS entries",
   "getting-certificate": "Getting certificate",

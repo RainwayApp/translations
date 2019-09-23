@@ -6,5 +6,8 @@
   "dependencies": {
     "leetspeak": "^0.0.1",
     "to-zalgo": "^1.0.1"
+  },
+  "scripts": {
+    "generate": "node ./generate.js"
   }
 }
