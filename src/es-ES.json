@@ -345,9 +345,9 @@
   "request-key-is-invalid": "La clave de solicitud no es válida.",
   "reset-password-key-is-invalid": "La clave de restablecimiento de contraseña no es válida.",
   "user-blocked": "El usuario está bloqueado.",
-  "user-verify-failed": "User verify failed.",
-  "username-already-taken": "Username is already taken.",
-  "username-invalid": "Username is invalid.",
-  "username-long": "Username is too long.",
-  "username-short": "Username is too short."
+  "user-verify-failed": "La verificación del usuario falló.",
+  "username-already-taken": "Este nombre de usuario ya está cogido.",
+  "username-invalid": "Nombre de usuario invalido no válido",
+  "username-long": "El nombre de usuario es demasiado largo.",
+  "username-short": "El nombre de usuario es demasiado corto."
 }
