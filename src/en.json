@@ -187,7 +187,7 @@
   "rating-great": "Great",
   "back-to-hosts": "Back to Hosts",
   "rainway": "Rainway",
-  "looking-for-service-games": "Looking for {{service} games...",
+  "looking-for-service-games": "Looking for {{service}} games...",
   "looking-for-games": "Looking for games",
   "scanning-for-games-message": "Scanning for games installed on this system",
   "could-not-find-games": "We couldn’t find any games installed on this system.",
