@@ -18,5 +18,9 @@
     {
         "title": "Español",
         "value": "es-ES"
+    },
+    {
+        "title": "日本語(Japanese)",
+        "value": "ja"
     }
 ]
