@@ -14,5 +14,9 @@
     {
         "title": "German (Germany)",
         "value": "de-de"
+    },
+    {
+        "title": "Español",
+        "value": "es-ES"
     }
 ]
