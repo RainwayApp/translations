@@ -187,7 +187,7 @@
   "rating-great": "Excelente",
   "back-to-hosts": "Volver a los Hosts",
   "rainway": "Rainway",
-  "looking-for-service-games": "Buscando juegos de {{service}...",
+  "looking-for-service-games": "Buscando juegos de {{service}}...",
   "looking-for-games": "Buscando juegos",
   "scanning-for-games-message": "Escaneo de juegos instalados en este sistema",
   "could-not-find-games": "No pudimos encontrar ningún juego instalado en este sistema.",
