@@ -1,7 +1,7 @@
 {
     "githubPullRequests.remotes": [
         "origin",
-        "upstream",
-        "translations"
+        "upstream"
+        
     ]
 }
