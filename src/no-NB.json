@@ -171,7 +171,7 @@
   "choose-a-shortcut": "Velg en snarvei",
   "edge-not-supported": "{{edge}} er for øyeblikket ikke støttet",
   "safari-stability-issues": "Vi jobber på noen stabilitetsutfordringer med {{safari}}.",
-  "firefox-not-supported": "{{firefox}} er for øyeblikket ikke støttet. På grunn av en nylig stor tilbakegang i 'real-time'-enkodingsytelse, klarer ikke {{firefox}} å tilby en jevn strømmeopplevelse med {{rainway}}. Dette er meldt ifra til {{mozilla}}, og du kan  "følge med på {{bugzilla}} <0>her</0>",
+  "firefox-not-supported": "{{firefox}} er for øyeblikket ikke støttet. På grunn av en nylig stor tilbakegang i 'real-time'-enkodingsytelse, klarer ikke {{firefox}} å tilby en jevn strømmeopplevelse med {{rainway}}. Dette er meldt ifra til {{mozilla}}, og du kan følge med på {{bugzilla}} <0>her</0>",
   "ps4-not-supported": "Nettleseren i {{ps4}} støttes ikke.",
   "browser": "Nettleser",
   "launch-game": "START SPILL",
