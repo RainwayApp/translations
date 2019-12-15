@@ -4,20 +4,24 @@
         "value": "en-US"
     },
     {
-        "title": "Z̡ALG̸O̴",
-        "value": "en-ZALGO"
+        "title": "Español",
+        "value": "es-ES"
     },
     {
-        "title": "L33t SP34K",
-        "value": "en-LEET"
+        "title": "Français",
+        "value": "fr-FR"
     },
     {
         "title": "German (Germany)",
         "value": "de-DE"
     },
     {
-        "title": "Español",
-        "value": "es-ES"
+        "title": "L33t SP34K",
+        "value": "en-LEET"
+    },
+    {
+        "title": "Z̡ALG̸O̴",
+        "value": "en-ZALGO"
     },
     {
         "title": "日本語(Japanese)",
