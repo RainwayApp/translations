@@ -28,15 +28,15 @@
         "value": "ja"
     },
     {
-        "title": "Türkçe (Turkish)",
-        "value": "tr-TR"
-    },
-        {
         "title": "Norsk (Bokmål)",
         "value": "no-NB"
     },
     {
         "title": "Nederlands (Dutch)",
         "value": "nl-NL"
+    },
+    {
+        "title": "Turkish (Türkçe)",
+        "value": "tr-TR"
     }
 ]
