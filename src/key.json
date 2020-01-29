@@ -46,5 +46,10 @@
     {
         "title": "简体中文 (Chinese Simplified)",
         "value": "zh-CN"
+    },
+    {
+        "title": "Português do Brasil",
+        "value": "pt-BR"
     }
+    
 ]
