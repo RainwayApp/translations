@@ -289,7 +289,7 @@
   "patent-pending": "Patent Pending.",
   "copyright-message": "Copyright © 2019 Rainway, Inc.",
   "integration-requests-timeout": "Integration request(s) timed out",
-  "account-registered": "Account registered! Check your email.",
+  "account-registered": "Account registered!",
   "pwd-reset-sent": "Password reset email sent.",
   "stats-overlay-play-time": "play time",
   "stats-overlay-latency": "latency",
@@ -349,5 +349,15 @@
   "username-already-taken": "Username is already taken.",
   "username-invalid": "Username is invalid.",
   "username-long": "Username is too long.",
-  "username-short": "Username is too short."
+  "username-short": "Username is too short.",
+  "get-started": "Get Started",
+  "lets-get-started": "Let's get started.",
+  "enter-email": "First, enter your email.",
+  "next": "Next",
+  "all-done": "All done! Setting some things up.",
+  "email-address": "Email Address",
+  "enter-password": "Enter your password",
+  "welcome": "Welcome, {{email}}",
+  "now-create-password": "Now, create a password.",
+  "welcome-back": "Welcome back, {{email}}"
 }
