@@ -355,6 +355,7 @@
   "enter-email": "First, enter your email.",
   "next": "Next",
   "all-done": "All done! Setting some things up.",
+  "all-done-welcome-back": "Welcome back! Settings some things up.",
   "email-address": "Email Address",
   "enter-password": "Enter your password",
   "welcome": "Welcome, {{email}}",
