@@ -171,7 +171,7 @@
   "choose-a-shortcut": "Choose a shortcut...",
   "edge-not-supported": "{{edge}} is not currently supported",
   "safari-stability-issues": "We are actively working on some stability issues with {{safari}}.",
-  "firefox-not-supported": "{{firefox}} is not currently supported. Due to a recent major regression in real-time decoding performance, {{firefox}} is currently unable to provide a smooth streaming experience with {{rainway}}. This issue has been brought to {{mozilla}}'s attention, and you can track it on {{bugzilla}} <0>here</0>"
+  "firefox-not-supported": "{{firefox}} is not currently supported. Due to a recent major regression in real-time decoding performance, {{firefox}} is currently unable to provide a smooth streaming experience with {{rainway}}. This issue has been brought to {{mozilla}}'s attention, and you can track it on {{bugzilla}} <0>here</0>",
   "ps4-not-supported": "The {{ps4}} browser is not supported.",
   "browser": "Browser",
   "launch-game": "LAUNCH GAME",
