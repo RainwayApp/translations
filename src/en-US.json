@@ -365,5 +365,16 @@
   "missing-media-feature-pack-title": "Missing Media Feature Pack",
   "missing-media-feature-pack-body": "It looks like your PC is missing the Windows Media Feature Pack. The Media Feature pack includes Windows Media Player and related technologies necessary for streaming your games using Rainway. Versions of Windows distributed in certain countries don’t come with the Media Feature Pack pre-installed, but you can download it for free from Microsoft.",
   "support-link": "Check our <1>support article</1> for instructions.",
-  "support-button-label": "go to support article"
+  "support-button-label": "go to support article",
+  "custom-games": "Custom Games",
+  "add-custom-games": "Add Custom Games",
+  "game-library": "Game Library",
+  "custom-games-settings-tab": "Custom Games",
+  "locate-games-copy": "Can’t see your games in the library? Locate the .exe file of the missing games or import your custom shortcuts from Steam to add them to {{rainway}}.",
+  "manage-custom-games": "Manage Custom Games",
+  "add-manually": "Add Manually",
+  "locate-exe": "Locate .exe",
+  "import-custom-shortcuts": "Import Custom Shortcuts",
+  "from-steam": "From Steam",
+  "click-on-exe":  "click on an .exe file"
 }
