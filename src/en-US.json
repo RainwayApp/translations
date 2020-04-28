@@ -376,5 +376,8 @@
   "locate-exe": "Locate .exe",
   "import-custom-shortcuts": "Import Custom Shortcuts",
   "from-steam": "From Steam",
-  "click-on-exe":  "click on an .exe file"
+  "click-on-exe":  "click on an .exe file",
+  "edit-metadata": "Edit Metadata",
+  "game": "Game",
+  "date-added": "Date Added"
 }
