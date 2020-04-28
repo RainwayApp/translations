@@ -379,5 +379,12 @@
   "click-on-exe":  "click on an .exe file",
   "edit-metadata": "Edit Metadata",
   "game": "Game",
-  "date-added": "Date Added"
+  "date-added": "Date Added",
+  "edit-game-details": "Edit Game Details",
+  "your-custom-game-banner": "Your custom game banner",
+  "remove-banner": "Remove Banner",
+  "add-custom-banner": "Add Custom Banner",
+  "save-and-add-shortcut": "Save and add custom game",
+  "custom-shortcut-title": "Custom Game title",
+  "command-line-arguments": "Command line arguments (e.g. -novideo)"
 }
