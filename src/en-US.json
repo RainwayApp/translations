@@ -385,6 +385,11 @@
   "remove-banner": "Remove Banner",
   "add-custom-banner": "Add Custom Banner",
   "save-and-add-shortcut": "Save and add custom game",
+  "update-shortcut": "Update custom game",
   "custom-shortcut-title": "Custom Game title",
-  "command-line-arguments": "Command line arguments (e.g. -novideo)"
+  "command-line-arguments": "Command line arguments (e.g. -novideo)",
+  "shortcut-error-media-invalid": "Selected media invalid; please choose a different image for your shortcut banner.",
+  "shortcut-error-name-invalid": "Invalid shortcut name",
+  "shortcut-error-media-upload": "We ran into an issue uploading your artwork, but your shortcut has been created with the default banner.",
+  "shortcut-error-please-try-again": "Something went wrong adding this shortcut. Please try again or reach out to our support channels on Discord."
 }
