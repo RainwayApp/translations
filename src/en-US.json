@@ -119,7 +119,7 @@
   "display-description": "The attached monitor to be streamed.",
   "audio-description": "The audio output device to stream sound from.",
   "quality-description": "The quality of the video streaming.",
-  "framerate-description": "The frame rate, as in frames per second, at which to stream.",
+  "framerate-description": "The framerate, as in frames per second, at which to stream.",
   "stream-scaling-description": "Scale the stream to a non-native resolution. Useful if you want to say, stream a smaller resolution to save bandwidth.",
   "default-port-description": "Use the default port (443) for incoming client connections, rather than our fallback port (40136).",
   "low": "Low",
