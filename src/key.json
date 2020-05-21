@@ -50,5 +50,9 @@
     {
         "title": "Português do Brasil",
         "value": "pt-BR"
+    },
+    {
+        "title": "Русский (Russian)",
+        "value": "ru"
     }
 ]
