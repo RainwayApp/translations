@@ -361,5 +361,9 @@
   "welcome": "Welcome, {{email}}",
   "now-create-password": "Now, create a password.",
   "welcome-back": "Welcome back, {{email}}",
-  "here": "here"
+  "here": "here",
+  "missing-media-feature-pack-title": "Missing Media Feature Pack",
+  "missing-media-feature-pack-body": "It looks like your PC is missing the Windows Media Feature Pack. The Media Feature pack includes Windows Media Player and related technologies necessary for streaming your games using Rainway. Versions of Windows distributed in certain countries don’t come with the Media Feature Pack pre-installed, but you can download it for free from Microsoft.",
+  "support-link": "Check our <1>support article</1> for instructions.",
+  "support-button-label": "go to support article"
 }
