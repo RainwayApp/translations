@@ -404,7 +404,7 @@
   "shortcuts-announcement-header": "Shortcuts are here!",
   "shortcuts-announcement-copy": "Now you can add any application to your {{rainway}} Dashboard by creating a shortcut.",
   "import-steam-header": "Import From Steam",
-  "import-steam-copy": "Already have your custom games and shortcuts set up in Steam? Import them all with one click.",
+  "import-steam-copy": "Already have your shortcuts set up in Steam? Import them all with one click.",
   "skip-this-step": "Skip this step",
   "import-successful-header": "Import Successful",
   "import-successful-copy": "We imported {{count}} shortcut from Steam. You can manage your shortcuts in the Shortcuts tab in settings.",
