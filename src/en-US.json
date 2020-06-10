@@ -399,6 +399,7 @@
   "shortcuts-imported": "Imported!",
   "new-feature": "NEW FEATURE",
   "import-pending": "Importing...",
+  "importing-shortcuts": "Importing Shortcuts...",
   "imported-n-shortcuts": "Imported {{count}} shortcut.",
   "imported-n-shortcuts_plural": "Imported {{count}} shortcuts.",
   "shortcuts-announcement-header": "Shortcuts are here!",
