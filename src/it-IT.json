@@ -161,7 +161,7 @@
   "keycode": "codice",
   "translation": "Traduzione",
   "or-log-out": "oppure <1>esci</1>",
-  "choose-a-shortcut": "Crea una scorciatoria",
+  "choose-a-shortcut": "Crea un collegamento",
   "edge-not-supported": "{{edge}} non è supportato al momento",
   "safari-stability-issues": "Stiamo lavorando attivamente su alcuni problemi di stabilità con {{safari}}.",
   "firefox-not-supported": "{{firefox}} non è al momento supportato. Per via di una recente importante regressione riguardante le performance della decodifica in tempo, {{firefox}} non è al momento in grado di fornire un'esperienza di streaming soddisfacente su {{rainway}}. Questo problema è stato portato all'attenzione di {{mozilla}}, e potete tenerne traccia attraverso {{bugzilla}} <0>qui</0>",
@@ -368,9 +368,15 @@
   "support-button-label": "Vai agli articoli di supporto",
   "add-manually": "Aggiungi manualmente",
   "locate-exe": "Locate.exe",
-  "import-steam-shortcuts": "Importa collegamente Steam",
+  "import-steam-shortcuts": "Importa collegamento Steam",
   "import-now": "Importa ora",
   "click-on-exe": "clicca sul file .exe",
   "edit-metadata": "Modifica Metadata",
-  "shortcut": "Collegamento"
+  "shortcut": "Collegamento",
+  "edit-shortcut-details": "Modifica dettagli collegamento",
+  "save-and-add-shortcut": "Salva ed aggiungi il collegamento",
+  "update-shortcut": "Aggiorna il collegamento",
+  "shortcut-error-media-invalid": "Media selezione non valido; per favore scegli un'immagine differente per l'icona del tuo collegamento",
+  "custom-shortcut-title": "Titolo collegamento personalizzato",
+  "your-shortcut-banner": "Icona del tuo collegamento"
 }
