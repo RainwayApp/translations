@@ -1,58 +1,62 @@
 [
-    {
-        "title": "English",
-        "value": "en-US"
-    },
-    {
-        "title": "Español",
-        "value": "es-ES"
-    },
-    {
-        "title": "Français",
-        "value": "fr-FR"
-    },
-    {
-        "title": "German (Germany)",
-        "value": "de-DE"
-    },
-    {
-        "title": "Italiano (Italy)",
-        "value": "it-IT"
-    },   
-    {
-        "title": "L33t SP34K",
-        "value": "en-LEET"
-    },
-    {
-        "title": "Z̡ALG̸O̴",
-        "value": "en-ZALGO"
-    },
-    {
-        "title": "日本語(Japanese)",
-        "value": "ja"
-    },
-    {
-        "title": "Norsk (Bokmål)",
-        "value": "no-NB"
-    },
-    {
-        "title": "Nederlands (Dutch)",
-        "value": "nl-NL"
-    },
-    {
-        "title": "Turkish (Türkçe)",
-        "value": "tr-TR"
-    },
-    {
-        "title": "简体中文 (Chinese Simplified)",
-        "value": "zh-CN"
-    },
-    {
-        "title": "Português do Brasil",
-        "value": "pt-BR"
-    },
-    {
-        "title": "Русский (Russian)",
-        "value": "ru"
-    }
+  {
+    "title": "English",
+    "value": "en-US"
+  },
+  {
+    "title": "Español",
+    "value": "es-ES"
+  },
+  {
+    "title": "Français",
+    "value": "fr-FR"
+  },
+  {
+    "title": "German (Germany)",
+    "value": "de-DE"
+  },
+  {
+    "title": "Italiano (Italy)",
+    "value": "it-IT"
+  },
+  {
+    "title": "L33t SP34K",
+    "value": "en-LEET"
+  },
+  {
+    "title": "Z̡ALG̸O̴",
+    "value": "en-ZALGO"
+  },
+  {
+    "title": "日本語(Japanese)",
+    "value": "ja"
+  },
+  {
+    "title": "Norsk (Bokmål)",
+    "value": "no-NB"
+  },
+  {
+    "title": "Vlaams (Flemish)",
+    "value": "nl-BE"
+  },
+  {
+    "title": "Nederlands (Dutch)",
+    "value": "nl-NL"
+  },
+  {
+    "title": "Turkish (Türkçe)",
+    "value": "tr-TR"
+  },
+  {
+    "title": "简体中文 (Chinese Simplified)",
+    "value": "zh-CN"
+  },
+  {
+    "title": "Português do Brasil",
+    "value": "pt-BR"
+  },
+  {
+    "title": "Русский (Russian)",
+    "value": "ru"
+  }
 ]
