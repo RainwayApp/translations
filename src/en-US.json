@@ -365,5 +365,15 @@
   "missing-media-feature-pack-title": "Missing Media Feature Pack",
   "missing-media-feature-pack-body": "It looks like your PC is missing the Windows Media Feature Pack. The Media Feature pack includes Windows Media Player and related technologies necessary for streaming your games using Rainway. Versions of Windows distributed in certain countries don’t come with the Media Feature Pack pre-installed, but you can download it for free from Microsoft.",
   "support-link": "Check our <1>support article</1> for instructions.",
-  "support-button-label": "go to support article"
+  "support-button-label": "go to support article",
+  "enable-upnp": "Enable UPnP",
+  "enable-upnp-description": "UPnP is a protocol that allows Rainway to open ports automatically for your network. Turn this off if you wish to manually manage connections.",
+  "lan-only": "Lan Only Mode",
+  "lan-only-description": "When this settings is enabled Rainway will not allow remote connections. Try enabling this if you notice high latency on your local network.",
+  "force-baseline-profile": "Force Baseline Profile",
+  "force-baseline-profile-description": "If you're experiencing black screens on your device, try enabling this setting. In most cases you don't need to do this.",
+  "show-performance-overlay": "Show Performance Overlay",
+  "show-performance-overlay-description": "If enabled Rainway will draw performance metrics for the encoding process on the stream.",
+  "stream-settings-moved": "Stream settings have moved.",
+  "stream-settings-moved-body": "You can now configure stream settings differently for each device you play on. Visit the Rainway stream settings on each device to choose your quality, frame rate and scaling preferences."
 }
