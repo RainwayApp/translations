@@ -75,7 +75,7 @@
   "about-rainway": "O Rainway",
   "third-party-licenses": "Licencje Stron Trzecich",
   "multiple-dashboards-found": "Znaleziono wiele Pulpitów nawigacyjnych",
-  "multiple-dashboards-found-message": "Znaleźliśmy {{count}} urządzenir, na którym znajduje się Pulpit nawigacyjny Rainway. Aby kontynuować, wybierz to, z którym chcesz się połączyć.",
+  "multiple-dashboards-found-message": "Znaleźliśmy {{count}} urządzenie, na którym znajduje się Pulpit nawigacyjny Rainway. Aby kontynuować, wybierz to, z którym chcesz się połączyć.",
   "multiple-dashboards-found-message_plural": "Znaleźliśmy {{count}} urządzenia obsługujące Pulpit nawigacyjny Rainway. Aby kontynuować, wybierz to, z którym chcesz się połączyć.",
   "dashboard-found": "Znaleziono Pulpit nawigacyjny",
   "dashboard-found-message": "Znaleźliśmy Twój Pulpit nawigacyjny Rainway. (Nie możesz się połączyć? Spróbuj zaktualizować Pulpit nawigacyjny z komputera, na którym jest zainstalowany).",
