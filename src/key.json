@@ -54,5 +54,10 @@
     {
         "title": "Русский (Russian)",
         "value": "ru"
+    },
+    {
+        "title": "Slovenščina (Slovenian)",
+        "value": "sl"
     }
+    
 ]
