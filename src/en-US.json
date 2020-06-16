@@ -378,6 +378,8 @@
   "stream-settings-moved-body": "You can now configure stream settings differently for each device you play on. Visit the Rainway stream settings on each device to choose your quality, frame rate and scaling preferences.",
   "experimental-settings-moved": "These settings have moved.",
   "experimental-settings-moved-body": "Ultra high bitrates and frame rates will now automatically appear as options in Rainway’s settings on devices that support them. When playing through your browser, ultra high bitrates may still be enabled through the Experiments tab in settings.",
+  "cef-acceleration": "UI Hardware Acceleration",
+  "cef-acceleration-description": "When enabled Rainway uses your GPU to render it's UI. Turn this off if you are experiencing FPS drops in games.",
   "shortcuts": "Shortcuts",
   "add-shortcuts": "Add Shortcuts",
   "add-shortcut": "Add Shortcut",
