@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bahasa Indonesia",
+        "value": "id"
+    }
+    {
         "title": "English",
         "value": "en-US"
     },
@@ -40,6 +44,10 @@
         "value": "nl-NL"
     },
     {
+        "title": "Svenska (Swedish)",
+        "value": "sv-SE"
+    },
+    {
         "title": "Turkish (Türkçe)",
         "value": "tr-TR"
     },
@@ -58,5 +66,9 @@
     {
         "title": "Polski (Polish)",
         "value": "pl-PL"
+    },
+    {
+        "title": "Slovenščina (Slovenian)",
+        "value": "sl"
     }
 ]
