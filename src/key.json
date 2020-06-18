@@ -4,6 +4,10 @@
         "value": "da-DK"
     },
     {
+        "title": "Bahasa Indonesia",
+        "value": "id"
+    },
+    {
         "title": "English",
         "value": "en-US"
     },
@@ -22,14 +26,6 @@
     {
         "title": "Italiano (Italy)",
         "value": "it-IT"
-    },   
-    {
-        "title": "L33t SP34K",
-        "value": "en-LEET"
-    },
-    {
-        "title": "Z̡ALG̸O̴",
-        "value": "en-ZALGO"
     },
     {
         "title": "日本語(Japanese)",
@@ -42,6 +38,10 @@
     {
         "title": "Nederlands (Dutch)",
         "value": "nl-NL"
+    },
+    {
+        "title": "Svenska (Swedish)",
+        "value": "sv-SE"
     },
     {
         "title": "Turkish (Türkçe)",
@@ -58,5 +58,13 @@
     {
         "title": "Русский (Russian)",
         "value": "ru"
+    },
+    {
+        "title": "Polski (Polish)",
+        "value": "pl-PL"
+    },
+    {
+        "title": "Slovenščina (Slovenian)",
+        "value": "sl"
     }
 ]
