@@ -438,5 +438,8 @@
   "delete-account-body-1": "Your account will be deactivated immediately upon confirmation. If you wish to recover your account, email support@rainway.com within 30 days, before your information is removed from our system. You may also email us to have your account information deleted immediately instead.",
   "delete-account-body-2": "Your settings and shortcuts will not be recoverable after your account is deleted.",
   "delete-account-body-3": "To confirm, please type DELETE in the textbox below and press the DELETE ACCOUNT button.",
-  "delete-account-tooltip": "Please enter DELETE."
+  "delete-account-tooltip": "Please enter DELETE.",
+  "goodbye": "Thanks for using Rainway! Goodbye!",
+  "error-deleting-account": "Error deleting account. Please email us instead.",
+  "possible-email-failure": "You may need to manually unsubscribe from emails."
 }
