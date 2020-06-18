@@ -1,8 +1,12 @@
 [
     {
+        "title": "Dansk",
+        "value": "da-DK"
+    },
+    {
         "title": "Bahasa Indonesia",
         "value": "id"
-    }
+    },
     {
         "title": "English",
         "value": "en-US"
@@ -22,14 +26,6 @@
     {
         "title": "Italiano (Italy)",
         "value": "it-IT"
-    },   
-    {
-        "title": "L33t SP34K",
-        "value": "en-LEET"
-    },
-    {
-        "title": "Z̡ALG̸O̴",
-        "value": "en-ZALGO"
     },
     {
         "title": "日本語(Japanese)",
