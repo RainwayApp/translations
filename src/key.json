@@ -1,70 +1,19 @@
 [
-    {
-        "title": "Dansk",
-        "value": "da-DK"
-    },
-    {
-        "title": "Bahasa Indonesia",
-        "value": "id"
-    },
-    {
-        "title": "English",
-        "value": "en-US"
-    },
-    {
-        "title": "Español",
-        "value": "es-ES"
-    },
-    {
-        "title": "Français",
-        "value": "fr-FR"
-    },
-    {
-        "title": "German (Germany)",
-        "value": "de-DE"
-    },
-    {
-        "title": "Italiano (Italy)",
-        "value": "it-IT"
-    },
-    {
-        "title": "日本語(Japanese)",
-        "value": "ja"
-    },
-    {
-        "title": "Norsk (Bokmål)",
-        "value": "no-NB"
-    },
-    {
-        "title": "Nederlands (Dutch)",
-        "value": "nl-NL"
-    },
-    {
-        "title": "Svenska (Swedish)",
-        "value": "sv-SE"
-    },
-    {
-        "title": "Turkish (Türkçe)",
-        "value": "tr-TR"
-    },
-    {
-        "title": "简体中文 (Chinese Simplified)",
-        "value": "zh-CN"
-    },
-    {
-        "title": "Português do Brasil",
-        "value": "pt-BR"
-    },
-    {
-        "title": "Русский (Russian)",
-        "value": "ru"
-    },
-    {
-        "title": "Polski (Polish)",
-        "value": "pl-PL"
-    },
-    {
-        "title": "Slovenščina (Slovenian)",
-        "value": "sl"
-    }
+  {"value": "da-DK", "title": "Dansk"},
+  {"value": "de-DE", "title": "German"},
+  {"value": "en-US", "title": "English"},
+  {"value": "es-ES", "title": "Español"},
+  {"value": "fr-FR", "title": "Français"},
+  {"value": "id",    "title": "Bahasa Indonesia"},
+  {"value": "it-IT", "title": "Italiano"},
+  {"value": "ja",    "title": "日本語"},
+  {"value": "nl-NL", "title": "Nederlands"},
+  {"value": "no-NB", "title": "Norsk (Bokmål)"},
+  {"value": "pl-PL", "title": "Polski"},
+  {"value": "pt-BR", "title": "Português do Brasil"},
+  {"value": "ru",    "title": "Русский"},
+  {"value": "sl",    "title": "Slovenščina"},
+  {"value": "sv-SE", "title": "Svenska"},
+  {"value": "tr-TR", "title": "Türkçe"},
+  {"value": "zh-CN", "title": "简体中文"}
 ]
