@@ -1,7 +1,8 @@
 [
   {"value": "da-DK", "title": "Dansk"},
   {"value": "de-DE", "title": "German"},
-  {"value": "en-US", "title": "English"},
+  {"value": "en-GB", "title": "English (United Kingdom)"},
+  {"value": "en-US", "title": "English (United States)"},
   {"value": "es-ES", "title": "Español"},
   {"value": "fr-FR", "title": "Français"},
   {"value": "id",    "title": "Bahasa Indonesia"},
