@@ -298,7 +298,7 @@
 "play-time": "Czas w grze: <1>{{time}}</1>",
 "port-40136-in-use": "Port 40136 używany przez {{name}}",
 "port-443-in-use": "Port 433 używany przez {{name}}",
-"possible-email-failure": "Może być konieczne ręczne anulowanie subskrypcji wiadomości email."
+"possible-email-failure": "Może być konieczne ręczne anulowanie subskrypcji wiadomości email.",
 "press-to-open-overlay": "<0>Naciśnij </0> <1>{{keybind}}</1> <2>, aby otworzyć nakładkę Rainway.</2>",
 "profile-avatar": "Awatar Profilu",
 "ps4-not-supported": "Przeglądarka {{ps4}} nie jest obsługiwana.",
@@ -442,5 +442,5 @@
 "welcome-to-rainway": "Witaj w Rainway",
 "what-not-supported": "{{what}} nieobsługiwany",
 "windows-settings-settings-tab": "Ustawienia systemu Windows",
-"your-shortcut-banner": "Edytuj Baner Skrótu",
+"your-shortcut-banner": "Edytuj Baner Skrótu"
 }
