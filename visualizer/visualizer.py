@@ -1,9 +1,10 @@
 import json
+import sys
 
 def translation_keys(translation):
     return {k.split('_')[0] for k in translation.keys()}
 
-def generate_table_rows(max_missing_keys_shown = 10):
+def generate_table_rows(max_missing_keys_shown=10):
     with open('../src/key.json') as f:
         languages = json.load(f)
 
@@ -14,10 +15,20 @@ def generate_table_rows(max_missing_keys_shown = 10):
     for l in languages:
         code = l['value']
         name = l['title']
-        with open('../src/%s.json' % code) as f:
+        with open(f'../src/{code}.json') as f:
             translated_keys = translation_keys(json.load(f))
         missing_keys = en_us_keys - translated_keys
-        missing_excerpt = ', '.join(sorted(missing_keys)[:max_missing_keys_shown]) + (', …' if len(missing_keys) > max_missing_keys_shown else '')
+        excess_keys = translated_keys - en_us_keys
+        if excess_keys:
+            print(f'\x1b[31mExcess keys in {code}.json: {list(sorted(excess_keys))}\x1b[0m', file=sys.stderr)
+
+        translated_keys &= en_us_keys
+
+        # Preview some missing keys.
+        missing_excerpt = ', '.join(sorted(missing_keys)[:max_missing_keys_shown])
+        if len(missing_keys) > max_missing_keys_shown:
+            missing_excerpt += ', …'
+
         rows.append((code, name, len(translated_keys), missing_excerpt))
 
     # Sort by translated keys, descending.
