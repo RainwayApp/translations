@@ -1,11 +1,19 @@
 # translations
-Repository of language files for various Rainway user interfaces. 
+Translations for Rainway user interfaces. 
 
 # How to contribute
-Know a second language? We need your help! Here's how to help us translate Rainway into your language:
-1. Fork this repository.
-2. Clone your copy to your computer.
-3. Copy the `en-US.json` file in the `src` directory and rename it to your own language's language or locale code.
-4. Get started translating the english strings contained within into your target language. Ensure that the double-bracketed `{{templates}}` and the HTML place holders `<#>` are preserved as they are, as they'll be filled in with language agnostic information on the app-side. Put them in the correct place for your language's grammatical structure, but don't change their contents.
-5. Add a new field to the array in `key.json` with a `title` coresponding to how your target language should be represented in a menu, and a `value` coresponding to the language or locale code of your target language.
-6. When you're finished, make a pull request back to this repository with your changes. Once it's accepted, the new language file will be deployed to our server and will be made available to the Rainway Client and Dashboard. 
+Here's how to help us translate Rainway into your language:
+1. [Create a GitHub account](https://github.com/join), if you haven't yet.
+2. Download [`en-US.json`](https://raw.githubusercontent.com/RainwayApp/translations/master/src/en-US.json) to your computer.
+3. Look up your [language's code](http://www.langtag.net/registries/lsr-language-utf8.txt) (and if necessary, your [region code](http://www.langtag.net/registries/lsr-region.txt)) and rename the file. For example, `is.json` is Icelandic; `ar-EG.json` is Arabic as spoken in Egypt.
+4. Translate all the text in the file. Make sure the `{{template-names}}` and `<1>`tag numbers`</1>` are preserved. You can move them around to suit your language's grammar, but Rainway needs them to know where to insert variable text and formatting.
+   > When translating something like `hours-played` and `hours-played_plural`, the right approach depends on your language's rules for plurals. You can use [this tool](https://jsfiddle.net/sm9wgLze) to verify which suffixes your language needs: type the language code into where it says _Enter a language code_ in the bottom-right box, then check the _Suffixes_ and _Sampling counts_ outputs.
+   >
+   > For example, a `ru` (Russian) translation might need three different translations, that inflect the word _ча́с_ (hour) three different ways: `hours-played_0` (for numbers ending in 0/5/6/7/8/9), `hours-played_1` (for numbers ending in 1) and `hours-played_2` (for numbers ending in 2/3/4). But a `ja` (Japanese) translation can just get rid of the `_plural` translation, because there are no plurals in Japanese.
+   >
+   > If this is confusing, don't worry too much about getting it right: we can probably help you figure it out once you submit your translation.
+5. Go [here](https://github.com/RainwayApp/translations/tree/master/src) and click “Add file” → “Create new file”.
+6. GitHub will show you an editor to paste your translation into. Don't forget the file name (`xx.json` or `xx-YY.json`)!
+7. At the bottom of the page, click “Propose new file”, and then “Create pull request” on the next screen.
+8. Write comments for us in the “Leave a comment” field, then confirm by clicking “Create pull request”.
+9. Once we check and accept your work, your translation will be in Rainway.
