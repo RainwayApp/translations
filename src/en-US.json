@@ -478,7 +478,7 @@
   "tv": "TV",
   "web": "Web",
   "mobile-tab-copy": "Download the mobile app on your {{apple}} or {{android}} device and use one of the codes below to connect it to your dashboard.",
-  "tv-services-copy": "When you download and launch the {{rainway}} App on your smart TV, you’ll be given a code. Log in and enter it at <1>{{host}}/{{resource}}</1> to connect to your dashboard.",
+  "tv-services-copy": "When you download and launch the {{rainway}} App on your TV, you’ll be given a code. Log in and enter it at <1>{{host}}/{{resource}}</1> to connect to your dashboard.",
   "web-services-copy": "Go to <1>{{playUrl}}</1> in any {{chromium}} browser or {{safari}} and log in to play all your PC games on any computer.",
   "go-to-rainway-connect": "go to {{host}}/{{resource}}",
   "go-to-rainway-play": "go to {{playUrl}}"
