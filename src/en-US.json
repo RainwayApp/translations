@@ -465,7 +465,7 @@
   "add-first-shortcut-copy": "Visit the Shortcuts tab in settings to add your first shortcut.",
   "take-me-there": "take me there",
   "delete-account": "Delete Account",
-  "delete-account-body-1": "Your account will be deactivated immediately upon confirmation. If you wish to recover your account, email support@rainway.com within 30 days, before your information is removed from our system. You may also email us to have your account information deleted immediately instead.",
+  "delete-account-body-1": "Your account will be deactivated immediately upon confirmation. If you wish to recover your account, email support@rainway.com within 30 days. After 30 days your information will be removed from our system. You may also email us to have your account information deleted immediately instead.",
   "delete-account-body-2": "Your settings and shortcuts will not be recoverable after your account is deleted.",
   "delete-account-body-3": "To confirm, please type DELETE in the textbox below and press the DELETE ACCOUNT button.",
   "delete-account-tooltip": "Please enter DELETE.",
@@ -479,8 +479,8 @@
   "tv": "TV",
   "web": "Web",
   "mobile-tab-copy": "Download the mobile app on your {{apple}} or {{android}} device and use one of the codes below to connect it to your dashboard.",
-  "tv-services-copy": "When you download and launch the {{rainway}} App on your smart TV, you’ll be given a code. Log in and enter it at <1>{{host}}/{{resource}}</1> to connect to your dashboard.",
-  "web-services-copy": "Go to <1>{{playUrl}}</1> in any {{chromium}} browser or {{safari}} and log in to play all your PC games on any computer.",
+  "tv-services-copy": "When you download and launch the {{rainway}} App on your TV, you’ll be given a code. Log in and enter it at <1>{{host}}/{{resource}}</1> to connect to your dashboard.",
+  "web-services-copy": "Log in to <1>{{playUrl}}</1> to play games from your browser on any computer.",
   "go-to-rainway-connect": "go to {{host}}/{{resource}}",
   "go-to-rainway-play": "go to {{playUrl}}"
 }
