@@ -485,5 +485,9 @@
   "tv-services-copy": "When you download and launch the {{rainway}} App on your TV, you’ll be given a code. Log in and enter it at <1>{{host}}/{{resource}}</1> to connect to your dashboard.",
   "web-services-copy": "Log in to <1>{{playUrl}}</1> to play games from your browser on any computer.",
   "go-to-rainway-connect": "go to {{host}}/{{resource}}",
-  "go-to-rainway-play": "go to {{playUrl}}"
+  "go-to-rainway-play": "go to {{playUrl}}",
+  "sort-by": "Sort by",
+  "sort-alphabetical": "Alphabetical",
+  "sort-last-played": "Last Played",
+  "sort-play-time": "Play Time"
 }
