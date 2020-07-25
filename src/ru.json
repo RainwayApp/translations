@@ -280,11 +280,9 @@
     "add-a-device": "{{plusSign}} Добавить Устройство",
     "not-started": "Не запущено",
     "initializing": "Инициализация",
-    "signed-in": "Вход выполнен",
-    "lbs-signed-in": "Вход выполнен",
     "lbs-not-running": "Не запущено",
-    "lbs-not-signed-in": "Выполнен выход",
     "lbs-not-installed": "Не установлено",
+    "lbs-not-signed-in": "Вход не выполнен",
     "no-installations-listed": "Сейчаст нет активных загрузок или обновлений. Когда будут, то появятся здесь.",
     "registering-dns-entries": "Регистрируем DNS имена",
     "getting-certificate": "Получаем сертификат",
@@ -499,5 +497,6 @@
     "sort-by": "Отсортировать по",
     "sort-alphabetical": "Алфавиту",
     "sort-last-played": "Последним сыгранным",
-    "sort-play-time": "Времени игры"
+    "sort-play-time": "Времени игры",
+    "uninstall": "Удалить"
 }
