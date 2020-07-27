@@ -350,6 +350,7 @@
     "stats-overlay-corrupted": "повреждено",
     "stats-overlay-total": "всего",
     "button-ok": "Ок",
+    "button-got-it": "Понял!",
     "button-launch": "Запустить",
     "game-launch-error": "Ошибка запуска игры:",
     "rainway-client": "Клиент {{rainway}}",
