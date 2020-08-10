@@ -515,6 +515,7 @@
   "web-services-copy": "Log in to <1>{{playUrl}}</1> to play games from your browser on any computer.",
   "go-to-rainway-connect": "go to {{host}}/{{resource}}",
   "go-to-rainway-play": "go to {{playUrl}}",
+  "show-installed-games-only": "Show installed games only",
   "sort-by": "Sort by",
   "sort-alphabetical": "Alphabetical",
   "sort-last-played": "Last Played",
