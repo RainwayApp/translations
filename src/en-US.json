@@ -192,7 +192,7 @@
   "looking-for-games": "Looking for games",
   "scanning-for-games-message": "Scanning for games installed on this system",
   "could-not-find-games": "We couldn’t find any games installed on this system.",
-  "think-its-a-mistake-reload": "Think it’s a mistake? <1> Reload Now </1>  .",
+  "think-its-a-mistake-reload": "Think it’s a mistake? <1>Reload Now</1>",
   "audio-codec-not-supported": "Audio codec not supported",
   "video-codec-not-supported": "Video codec not supported",
   "gameplay-resuming": "Gameplay resuming",
