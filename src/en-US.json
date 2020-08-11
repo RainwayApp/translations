@@ -287,7 +287,7 @@
   "lbs-not-installed": "Not installed",
   "lbs-not-signed-in": "Not signed in",
   "lbs-signed-in": "Signed in",
-  "waiting-for-launcher": "Waiting for {{launcher}}",
+  "waiting-for-launcher": "Waiting for {{launcherName}}",
   "im-header-not-running": "Launch {{launcherName}} to Continue",
   "im-header-launcher-not-signed-in": "Sign Into {{launcherName}} to Continue",
   "im-header-rainway-not-signed-in": "Link {{launcherName}} to {{rainway}} to Continue",
