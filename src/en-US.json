@@ -520,5 +520,10 @@
   "sort-alphabetical": "Alphabetical",
   "sort-last-played": "Last Played",
   "sort-play-time": "Play Time",
-  "uninstall": "Uninstall"
+  "uninstall": "Uninstall",
+  "game-on-multiple-platforms-header-title": "Game Found on Multiple Launchers",
+  "game-on-multiple-platforms-header-copy": "It looks like you own {{title}} on multiple launchers.",
+  "proceed-with-which": "Which one would you like to proceed with?",
+  "install-with-platform": "Install with {{platform}}",
+  "linked": "linked"
 }
