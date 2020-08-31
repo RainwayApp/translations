@@ -288,6 +288,7 @@
     "lbs-not-signed-in": "Вход не выполнен",
     "lbs-signed-in": "Выполнен вход",
     "waiting-for-launcher": "Ожидание {{launcherName}}",
+    "im-header-not-installed": "Установите {{launcherName}}",
     "im-header-not-running": "Запустите {{launcherName}}, чтобы продолжить",
     "im-header-launcher-not-signed-in": "Войдите в {{launcherName}}, чтобы продолжить",
     "im-header-rainway-not-signed-in": "Привяжите {{launcherName}} к {{rainway}}, чтобы продолжить",
