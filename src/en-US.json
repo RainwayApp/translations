@@ -533,5 +533,6 @@
   "game-on-multiple-platforms-header-copy": "It looks like you own {{- title}} on multiple launchers.",
   "proceed-with-which": "Which one would you like to proceed with?",
   "install-with-platform": "Install with {{platform}}",
-  "linked": "linked"
+  "linked": "linked",
+  "link-launcher-header": "Link Your {{launcher}} Account"
 }
