@@ -534,5 +534,6 @@
   "proceed-with-which": "Which one would you like to proceed with?",
   "install-with-platform": "Install with {{platform}}",
   "linked": "linked",
-  "link-launcher-header": "Link Your {{launcher}} Account"
+  "link-launcher-header": "Link Your {{launcher}} Account",
+  "refer-and-win": "Refer & Win"
 }
