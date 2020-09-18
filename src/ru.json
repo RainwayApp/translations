@@ -73,6 +73,7 @@
     "stream-settings-tab": "Трансляция",
     "language-settings-tab": "Язык",
     "experiments-settings-tab": "Экспериментальное",
+    "launchers-settings-tab": "Лаунчеры",
     "about-rainway": "О Rainway",
     "third-party-licenses": "Лицензии третьих лиц",
     "multiple-dashboards-found": "Найдено несколько Панелей управления",
@@ -249,6 +250,8 @@
     "view-manage-downloads-tooltip": "Просмотр и управление загрузками, обновлениями, и подключенными лаунчерами находится здесь.",
     "link-2FA-header": "Двухфакторная аутентификация",
     "link-2FA-copy": "Код двухфакторной аутентификации был отправлен на вашу почту или приложеия-идентификатор. Пожалуйста, введите его ниже:",
+    "launcher-settings-tab-header": "Лаунчеры",
+    "launcher-settings-tab-copy": "Подключив аккаунт лаунчера, его игры будут отображаться в библиотеке {{rainway}}, даже если они ещё не были установлены. Также вы сможете управлять процессом загрузки и обновления игр из библиотеки этого лаунчера прямо из окна {{rainway}}.",
     "launcher-linked-header": "Аккаунт {{launcher}} привязан",
     "launcher-linked-copy": "Ваш аккаунт {{launcher}} был успешно привязан. Теперь вы можете управлять процессом установок и обновлений прямо из панели управления Rainway.",
     "login-footer-copy": "Ваши данные для входа зашифрованы и хранятся только на вашем устройстве.",
@@ -286,6 +289,7 @@
     "lbs-not-running": "Не запущено",
     "lbs-not-installed": "Не установлено",
     "lbs-not-signed-in": "Вход не выполнен",
+    "lbs-not-linked": "Не привязано",
     "lbs-signed-in": "Выполнен вход",
     "waiting-for-launcher": "Ожидание {{launcherName}}",
     "im-header-not-installed": "Установите {{launcherName}}",
@@ -315,6 +319,9 @@
     "connecting-to-friends-server": "Подключаемся к серверу друзей",
     "registering-callbacks": "Регистрируем Обратную связь",
     "link-account": "Подключить аккаунт",
+    "unlink-account": "Отвязать аккаунт",
+    "unlink-account-header": "Отвязать {{launcherName}}",
+    "unlink-account-copy": "Отвязать {{launcherName}} аккаунт от Rainway? У вас больше не будет возможностьи управлять процессом загрузок и обновлений игр {{launcherName}} через окно {{rainway}}.",
     "updating": "Обновление...",
     "paused": "Остановлено",
     "installed": "Установлено",
@@ -526,5 +533,6 @@
     "game-on-multiple-platforms-header-copy": "Похоже, что {{- title}} присутствует в ваших библиотеках из разных лаунчеров.",
     "proceed-with-which": "Из какого лаунчера вы хотите установить игру?",
     "install-with-platform": "Установить через {{platform}}",
-    "linked": "привязано"
+    "linked": "привязано",
+    "link-launcher-header": "Подключить ваш {{launcher}} аккаунт"
 }
