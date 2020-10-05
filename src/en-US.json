@@ -537,6 +537,7 @@
   "proceed-with-which": "Which one would you like to proceed with?",
   "install-with-launcher": "Install with {{launcherName}}",
   "update-with-launcher": "Update with {{launcherName}}",
+  "launch-with-launcher": "Launch with {{launcherName}}",
   "updating-with-launcher": "Updating with {{launcherName}}",
   "linked": "linked",
   "link-launcher-header": "Link Your {{launcher}} Account",
