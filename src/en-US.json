@@ -531,6 +531,7 @@
   "sort-alphabetical": "Alphabetical",
   "sort-last-played": "Last Played",
   "sort-play-time": "Play Time",
+  "sort-install-status": "Install Status",
   "uninstall": "Uninstall",
   "game-on-multiple-platforms-header-title": "Game Found on Multiple Launchers",
   "game-on-multiple-platforms-header-copy": "It looks like you own {{- title}} on multiple launchers. Which one would you like to proceed with?",
@@ -538,10 +539,16 @@
   "install-with-launcher": "Install with {{launcherName}}",
   "update-with-launcher": "Update with {{launcherName}}",
   "launch-with-launcher": "Launch with {{launcherName}}",
+  "remove-account-header": "Remove {{launcherName}} Account",
+  "remove-account-copy": "Are you sure you want to remove the {{launcherName}} account <0>{{userName}}</0> from your {{rainwayDashboard}}?",
+  "remove-account": "Remove Account",
   "updating-with-launcher": "Updating with {{launcherName}}",
   "linked": "linked",
   "link-launcher-header": "Link Your {{launcher}} Account",
   "refer-and-win": "Refer & Win",
   "manage-launchers": "Manage Launchers",
-  "action-required": "Action Required"
+  "action-required": "Action Required",
+  "try-again": "Try Again",
+  "link-request-failed-header": "Unable to Link Account",
+  "link-request-failed-copy": "We were unable to link your {{launcherName}} Account. This may occur after multiple failed attempts or if you haven’t logged into the {{launcherName}} Launcher for a while. If this issue persists, try exiting and relaunching the {{launcherLongName}}."
 }
