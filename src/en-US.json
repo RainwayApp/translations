@@ -549,6 +549,9 @@
   "manage-launchers": "Manage Launchers",
   "action-required": "Action Required",
   "try-again": "Try Again",
+  "that-didnt-work": "That didn't work.",
+  "unable-to-adopt": "We were unable to link your {{launcherName}} Account. Try launching (or restarting) the {{launcherLongName}}, and then come back and click try again.",
   "link-request-failed-header": "Unable to Link Account",
-  "link-request-failed-copy": "We were unable to link your {{launcherName}} Account. This may occur after multiple failed attempts or if you haven’t logged into the {{launcherName}} Launcher for a while. If this issue persists, try exiting and relaunching the {{launcherLongName}}."
+  "link-request-failed-copy": "We were unable to link your {{launcherName}} Account. This may occur after multiple failed attempts or if you haven’t logged into the {{launcherName}} Launcher for a while. If this issue persists, try exiting and relaunching the {{launcherLongName}}.",
+  "adopt-token-prompt-copy": "We noticed you’re logged in to the {{launcher}} on this PC. Would you like us to use this login to link your account?"
 }
