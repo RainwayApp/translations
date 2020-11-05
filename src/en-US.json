@@ -558,7 +558,7 @@
   "link-request-failed-copy": "We were unable to link your {{launcherName}} Account. This may sometimes happens after multiple failed attempts, if you haven't logged into {{launcherLongName}} for a while, or if you if you've entered your login information incorrectly.",
   "link-request-retry-option-copy": "We noticed you're still logged in to {{launcherLongName}} on this PC; we can still use that login to link your account, or you can try inputting your email and password again.",
   "link-request-suggest-login-for-adopt-copy": "If you think you entered your login incorrectly, you can try again. Otherwise, if you launch (or restart) {{launcherLongName}}, log in, and then come back, we can link your account using that active login.",
-  "adopt-request-retry-copy": "We were unable to link your {{launcherName}} Account. Try launching (or restarting) {{launcherLongName}}, and then come back and click try again.",
+  "adopt-request-retry-copy": "We were unable to link your {{launcherName}} Account. Try launching (or restarting) {{launcherLongName}} and logging in there. Then come back and click try again.",
   "adopt-request-failed-copy": "We were unable to link your {{launcherName}} Account. Would you like to try linking manually with your {{launcherLongName}} login?",
   "adopt-token-prompt-copy": "We noticed you’re logged in to {{launcher}} on this PC. Would you like us to use this login to link your account?",
   "connect-with-email-password": "connect with email and password",
