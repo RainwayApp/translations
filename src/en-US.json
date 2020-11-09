@@ -153,10 +153,10 @@
   "play-time": "Play Time: <1>{{time}}</1>",
   "quit-game": "QUIT GAME",
   "connection-failed": "Connection Failed",
-  "cant-connect-server": "Rainway can't connect to <1>{{name}}</1>  at this time. Please try again. If this issue persists, our support team will be happy to help on our <3>Community Discord</3>",
+  "cant-connect-server": "Rainway can't connect to <1>{{name}}</1>  at this time. Please try again. If this issue persists, our support team will be happy to help on our <3>support system</3>",
   "suggest-chrome": "We recommend using <0>{{chrome}}</0> or a {{chromium}}-based browser in the meantime.",
   "back-to-server-list": "Back to server list",
-  "cant-connect-network": "Can't connect to the Rainway network. Please try again later. If this issue persists, our support team will be happy to help on our <1>Community Discord</1>",
+  "cant-connect-network": "Can't connect to the Rainway network. Please try again later. If this issue persists, our support team will be happy to help on our <1>support system</1>",
   "press-to-open-overlay": "<0>Press </0> <1>{{keybind}}</1> <2> to open the Rainway overlay.</2>",
   "ping-ms": "{{latency}} ms",
   "rate-your-experience": "Rate your experience:",
@@ -485,7 +485,7 @@
   "shortcut-error-media-size": "Selected media is above 8mb size limit; please choose a different image.",
   "shortcut-error-name-invalid": "Invalid shortcut name",
   "shortcut-error-media-upload": "We ran into an issue uploading your artwork, but your shortcut has been created with the default banner.",
-  "shortcut-error-please-try-again": "Something went wrong adding this shortcut. Please try again or reach out to our support channels on Discord.",
+  "shortcut-error-please-try-again": "Something went wrong adding this shortcut. Please try again or reach out to our support channels.",
   "shortcut-error-already-exists": "You've already added this shortcut.",
   "no-shortcuts-found": "No new shortcuts found.",
   "shortcuts-imported": "Imported!",
@@ -563,5 +563,5 @@
   "adopt-token-prompt-copy": "We noticed you’re logged in to {{launcher}} on this PC. Would you like us to use this login to link your account?",
   "connect-with-email-password": "connect with email and password",
   "use-active-login": "use my active login",
-  "clear-completed": "clear completed",
+  "clear-completed": "clear completed"
 }
