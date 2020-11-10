@@ -563,5 +563,5 @@
   "adopt-token-prompt-copy": "We noticed you’re logged in to {{launcher}} on this PC. Would you like us to use this login to link your account?",
   "connect-with-email-password": "connect with email and password",
   "use-active-login": "use my active login",
-  "clear-completed": "clear completed",
+  "clear-completed": "clear completed"
 }
