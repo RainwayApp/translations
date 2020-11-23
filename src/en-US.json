@@ -469,7 +469,7 @@
   "locate-exe": "Locate .exe",
   "import-steam-shortcuts": "Import Steam Shortcuts",
   "import-now": "Import now",
-  "click-on-exe":  "click on an .exe file",
+  "click-on-exe": "click on an .exe file",
   "edit-metadata": "Edit Metadata",
   "shortcut": "Shortcut",
   "date-added": "Date Added",
@@ -563,5 +563,10 @@
   "adopt-token-prompt-copy": "We noticed you’re logged in to {{launcher}} on this PC. Would you like us to use this login to link your account?",
   "connect-with-email-password": "connect with email and password",
   "use-active-login": "use my active login",
-  "clear-completed": "clear completed"
+  "clear-completed": "clear completed",
+  "update-modal-body": "A new version of the Rainway Dashboard is now available. Would you like to download and install the update now?",
+  "update-modal-header": "New Update Available",
+  "later": "later",
+  "update-now": "update now",
+  "update-rainway": "Update Rainway"
 }
