@@ -1,0 +1,12 @@
+{
+  "welcome-to-rainway": "Tervetuloa Rainway!",
+  "no-account-yet": "Eikö sinulla ole tiliä?",
+  "register-now": "Rekisteröidy",
+  "forgot-password": "Unohdin salasanani",
+  "register-new-account": "Luo uusi tili",
+  "reset-your-password": "Vaihda salasana oletukseksi",
+  "email": "sähköposti",
+  "password": "Salasana",
+  "username": "Kirjautumisnimi",
+  "confirm-password": "Salasanan vahvistus"
+}
